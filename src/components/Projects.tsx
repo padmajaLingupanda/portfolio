@@ -9,7 +9,7 @@ const Projects = () => {
       image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800',
       tags: ['C', 'Arduino UNO', 'Ultrasonic Sensor'],
       liveUrl:'https://example.com',
-      githubUrl: 'https://github.com/padmajaLingupanda'',
+      githubUrl: 'https://github.com/padmajaLingupanda',
       featured: true,
     },
     {
