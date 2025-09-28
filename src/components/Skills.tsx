@@ -8,12 +8,9 @@ const Skills = () => {
       icon: <Globe className="w-8 h-8" />,
       color: 'blue',
       skills: [
-        { name: 'React/Next.js', level: 95 },
-        { name: 'TypeScript', level: 90 },
-        { name: 'JavaScript', level: 95 },
-        { name: 'HTML/CSS', level: 98 },
-        { name: 'Tailwind CSS', level: 92 },
-        { name: 'Vue.js', level: 85 },
+        { name: 'HTML', level: 95 },
+        { name: 'CSS', level: 90 },
+        { name: 'JavaScript', level: 89 },,
       ],
     },
     {
@@ -21,38 +18,11 @@ const Skills = () => {
       icon: <Database className="w-8 h-8" />,
       color: 'green',
       skills: [
-        { name: 'Node.js', level: 88 },
+        { name: 'PHP', level: 88 },
         { name: 'Python', level: 85 },
-        { name: 'PostgreSQL', level: 90 },
-        { name: 'MongoDB', level: 82 },
-        { name: 'GraphQL', level: 78 },
-        { name: 'REST APIs', level: 92 },
-      ],
-    },
-    {
-      title: 'Mobile Development',
-      icon: <Smartphone className="w-8 h-8" />,
-      color: 'purple',
-      skills: [
-        { name: 'React Native', level: 88 },
-        { name: 'Flutter', level: 75 },
-        { name: 'Swift', level: 70 },
-        { name: 'Kotlin', level: 68 },
-        { name: 'Expo', level: 90 },
-        { name: 'Firebase', level: 85 },
-      ],
-    },
-    {
-      title: 'Design & Tools',
-      icon: <Palette className="w-8 h-8" />,
-      color: 'pink',
-      skills: [
-        { name: 'Figma', level: 92 },
-        { name: 'Adobe XD', level: 88 },
-        { name: 'Photoshop', level: 80 },
-        { name: 'Illustrator', level: 75 },
-        { name: 'UI/UX Design', level: 90 },
-        { name: 'Prototyping', level: 88 },
+        { name: 'SQL', level: 92 },
+        { name: 'Java', level: 89 },
+        
       ],
     },
     {
@@ -60,12 +30,9 @@ const Skills = () => {
       icon: <Code2 className="w-8 h-8" />,
       color: 'orange',
       skills: [
-        { name: 'JavaScript', level: 95 },
-        { name: 'TypeScript', level: 90 },
         { name: 'Python', level: 85 },
         { name: 'Java', level: 78 },
-        { name: 'Go', level: 70 },
-        { name: 'Rust', level: 65 },
+        { name: 'C', level: 70 },
       ],
     },
     {
@@ -73,12 +40,8 @@ const Skills = () => {
       icon: <Settings className="w-8 h-8" />,
       color: 'teal',
       skills: [
-        { name: 'Docker', level: 85 },
         { name: 'AWS', level: 82 },
         { name: 'Git', level: 95 },
-        { name: 'CI/CD', level: 88 },
-        { name: 'Linux', level: 80 },
-        { name: 'Kubernetes', level: 72 },
       ],
     },
   ];
