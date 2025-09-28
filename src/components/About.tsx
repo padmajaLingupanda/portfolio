@@ -36,35 +36,6 @@ const About = () => {
               “Passionate web developer with a strong drive to create user-friendly, responsive, and innovative                websites. Dedicated to continuous learning and staying updated with modern web technologies.”
               </p>
             </div>
-
-            {/* Highlights */}
-            <div className="grid grid-cols-2 gap-6 mt-8">
-              <div className="flex items-center space-x-3">
-                <div className="p-2 bg-blue-500/20 rounded-lg">
-                  <Code className="text-blue-400" size={24} />
-                </div>
-              </div>
-              <div className="flex items-center space-x-3">
-                <div className="p-2 bg-green-500/20 rounded-lg">
-                  <Palette className="text-green-400" size={24} />
-                </div>
-              </div>
-              <div className="flex items-center space-x-3">
-                <div className="p-2 bg-purple-500/20 rounded-lg">
-                  <Zap className="text-purple-400" size={24} />
-                </div>
-              </div>
-              <div className="flex items-center space-x-3">
-                <div className="p-2 bg-pink-500/20 rounded-lg">
-                  <Heart className="text-pink-400" size={24} />
-                </div>
-                <div>
-                  <h4 className="font-semibold text-white">Passion</h4>
-                  <p className="text-sm text-gray-400">Love What I Do</p>
-                </div>
-              </div>
-            </div>
-
             {/* Stats */}
             <div className="grid grid-cols-3 gap-6 mt-12 pt-8 border-t border-gray-700">
               <div className="text-center">
