@@ -15,17 +15,17 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: <Github className="w-5 h-5" />,
-      href: 'https://github.com',
+      href: 'https://github.com/padmajaLingupanda',
       label: 'GitHub',
     },
     {
       icon: <Linkedin className="w-5 h-5" />,
-      href: 'https://linkedin.com',
+      href: 'https://www.linkedin.com/in/',
       label: 'LinkedIn',
     },
     {
       icon: <Mail className="w-5 h-5" />,
-      href: 'mailto:john@example.com',
+      href: 'mailto:padmajalingupanda04@gmail.com.com',
       label: 'Email',
     },
   ];
@@ -44,11 +44,11 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="md:col-span-2">
             <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-green-400 bg-clip-text text-transparent mb-4">
-              John Smith
+              Lingupanda Padmaja
             </h3>
             <p className="text-gray-400 leading-relaxed mb-6 max-w-md">
-              Full-Stack Developer & UI/UX Designer passionate about creating 
-              beautiful, functional digital experiences that make a difference.
+            “Passionate web developer with a strong drive to create user-friendly, responsive, and innovative                websites. Dedicated to continuous learning and staying updated with modern web technologies.”
+              </p>
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((link) => (
@@ -87,9 +87,9 @@ const Footer = () => {
           <div>
             <h4 className="text-white font-semibold mb-4">Contact</h4>
             <div className="space-y-2 text-gray-400">
-              <p>john@example.com</p>
-              <p>+1 (555) 123-4567</p>
-              <p>San Francisco, CA</p>
+              <p>padhu@example.com</p>
+              <p>+91 9704520017</p>
+              <p>Jaggampeta, AndhraPradesh</p>
             </div>
           </div>
         </div>
@@ -99,10 +99,10 @@ const Footer = () => {
           <div className="flex items-center text-gray-400 mb-4 md:mb-0">
             <span>Made with</span>
             <Heart className="w-4 h-4 mx-2 text-red-500 animate-pulse" />
-            <span>by John Smith</span>
+            <span>by padmaja</span>
           </div>
           <p className="text-gray-400 text-sm">
-            © {currentYear} John Smith. All rights reserved.
+            © {currentYear} padmaja. All rights reserved.
           </p>
         </div>
       </div>
