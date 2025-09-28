@@ -39,8 +39,7 @@ const Hero = () => {
 
           {/* Description */}
           <p className="text-lg md:text-xl text-gray-400 max-w-3xl mx-auto mb-12 leading-relaxed animate-fade-in-up" style={{ animationDelay: '0.8s' }}>
-            I create beautiful, functional, and user-centered digital experiences
-            that bring ideas to life through clean code and thoughtful design.
+             “Passionate web developer with a strong drive to create user-friendly, responsive, and innovative                websites. Dedicated to continuous learning and staying updated with modern web technologies.”
           </p>
 
           {/* CTA Buttons */}
