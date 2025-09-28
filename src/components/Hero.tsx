@@ -28,13 +28,13 @@ const Hero = () => {
           {/* Main heading */}
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
             <span className="bg-gradient-to-r from-blue-400 via-green-400 to-purple-400 bg-clip-text text-transparent">
-              John Smith
+              Lingupanda Padmaja
             </span>
           </h1>
 
           {/* Subtitle */}
           <p className="text-xl md:text-2xl lg:text-3xl text-gray-300 mb-8 font-light animate-fade-in-up" style={{ animationDelay: '0.6s' }}>
-            Full-Stack Developer & UI/UX Designer
+            Web Developer
           </p>
 
           {/* Description */}
@@ -61,7 +61,7 @@ const Hero = () => {
           {/* Social Links */}
           <div className="flex justify-center space-x-6 mb-16 animate-fade-in-up" style={{ animationDelay: '1.2s' }}>
             <a
-              href="https://github.com"
+              href="https://github.com/padmajaLingupanda"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 text-gray-400 hover:text-white hover:bg-gray-700 rounded-full transition-all duration-300 transform hover:scale-110"
@@ -69,7 +69,7 @@ const Hero = () => {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 text-gray-400 hover:text-white hover:bg-gray-700 rounded-full transition-all duration-300 transform hover:scale-110"
@@ -77,7 +77,7 @@ const Hero = () => {
               <Linkedin size={24} />
             </a>
             <a
-              href="mailto:john@example.com"
+              href="mailto:padmajalingupanda04@gmail.com"
               className="p-3 text-gray-400 hover:text-white hover:bg-gray-700 rounded-full transition-all duration-300 transform hover:scale-110"
             >
               <Mail size={24} />
