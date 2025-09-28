@@ -86,7 +86,7 @@ const Footer = () => {
           <div>
             <h4 className="text-white font-semibold mb-4">Contact</h4>
             <div className="space-y-2 text-gray-400">
-              <p>padhu@example.com</p>
+              <p>padmajalingupanda04@gmail.com</p>
               <p>+91 9704520017</p>
               <p>Jaggampeta, AndhraPradesh</p>
             </div>
