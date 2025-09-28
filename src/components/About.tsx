@@ -43,27 +43,15 @@ const About = () => {
                 <div className="p-2 bg-blue-500/20 rounded-lg">
                   <Code className="text-blue-400" size={24} />
                 </div>
-                <div>
-                  <h4 className="font-semibold text-white">Clean Code</h4>
-                  <p className="text-sm text-gray-400">Maintainable & Scalable</p>
-                </div>
               </div>
               <div className="flex items-center space-x-3">
                 <div className="p-2 bg-green-500/20 rounded-lg">
                   <Palette className="text-green-400" size={24} />
                 </div>
-                <div>
-                  <h4 className="font-semibold text-white">UI/UX Focus</h4>
-                  <p className="text-sm text-gray-400">User-Centered Design</p>
-                </div>
               </div>
               <div className="flex items-center space-x-3">
                 <div className="p-2 bg-purple-500/20 rounded-lg">
                   <Zap className="text-purple-400" size={24} />
-                </div>
-                <div>
-                  <h4 className="font-semibold text-white">Performance</h4>
-                  <p className="text-sm text-gray-400">Fast & Optimized</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
