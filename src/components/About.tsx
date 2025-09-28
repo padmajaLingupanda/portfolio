@@ -20,7 +20,7 @@ const About = () => {
             <div className="w-80 h-80 mx-auto bg-gradient-to-br from-blue-500 to-green-500 rounded-full p-1">
               <div className="w-full h-full bg-gray-800 rounded-full flex items-center justify-center">
                 <div className="w-64 h-64 bg-gradient-to-br from-blue-400/20 to-green-400/20 rounded-full flex items-center justify-center">
-                  <span className="text-6xl font-bold text-gray-300">JS</span>
+                  <span className="text-6xl font-bold text-gray-300">P</span>
                 </div>
               </div>
             </div>
