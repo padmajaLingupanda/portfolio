@@ -42,20 +42,20 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: 'Email',
-      value: 'john@example.com',
-      link: 'mailto:john@example.com',
+      value: 'padmajalingupanda04@gmail.com',
+      link: 'padmajalingupanda04@gmail.com',
     },
     {
       icon: <Phone className="w-6 h-6" />,
       title: 'Phone',
-      value: '+1 (555) 123-4567',
-      link: 'tel:+15551234567',
+      value: '+91 9704520017',
+      link: 'tel:+91 9704520017',
     },
     {
       icon: <MapPin className="w-6 h-6" />,
       title: 'Location',
-      value: 'San Francisco, CA',
-      link: 'https://maps.google.com',
+      value: 'Jaggampeta, Andhra Pradesh',
+      link: 'Jaggampeta, Andhra Pradesh, India',
     },
   ];
 
@@ -63,20 +63,14 @@ const Contact = () => {
     {
       icon: <Github className="w-6 h-6" />,
       name: 'GitHub',
-      url: 'https://github.com',
+      url: 'https://github.com/padmajaLingupanda',
       color: 'hover:text-gray-300',
     },
     {
       icon: <Linkedin className="w-6 h-6" />,
       name: 'LinkedIn',
-      url: 'https://linkedin.com',
+      url: 'https://www.linkedin.com/in/',
       color: 'hover:text-blue-400',
-    },
-    {
-      icon: <Twitter className="w-6 h-6" />,
-      name: 'Twitter',
-      url: 'https://twitter.com',
-      color: 'hover:text-sky-400',
     },
   ];
 
@@ -231,10 +225,6 @@ const Contact = () => {
                 <div className="w-3 h-3 bg-green-400 rounded-full animate-pulse" />
                 <h4 className="text-white font-semibold">Available for Work</h4>
               </div>
-              <p className="text-gray-400">
-                I'm currently available for freelance projects and full-time opportunities. 
-                Let's discuss how we can work together!
-              </p>
             </div>
           </div>
         </div>
