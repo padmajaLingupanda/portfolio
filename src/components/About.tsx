@@ -29,25 +29,11 @@ const About = () => {
           {/* Content */}
           <div>
             <h3 className="text-2xl md:text-3xl font-bold mb-6 text-white">
-              Hi there! I'm John Smith
+              Hi there! I'm Lingupanda Padmaja
             </h3>
             <div className="space-y-4 text-lg text-gray-300 leading-relaxed">
               <p>
-                I'm a passionate full-stack developer with over 5 years of experience
-                creating digital solutions that combine beautiful design with robust
-                functionality. My journey in tech started with curiosity and has
-                evolved into a deep love for crafting user experiences.
-              </p>
-              <p>
-                When I'm not coding, you'll find me exploring the latest design trends,
-                contributing to open-source projects, or mentoring aspiring developers.
-                I believe in writing clean, maintainable code and creating interfaces
-                that users genuinely enjoy interacting with.
-              </p>
-              <p>
-                My approach combines technical expertise with creative problem-solving,
-                ensuring every project not only works flawlessly but also delights users
-                and drives business results.
+              “Passionate web developer with a strong drive to create user-friendly, responsive, and innovative                websites. Dedicated to continuous learning and staying updated with modern web technologies.”
               </p>
             </div>
 
@@ -94,16 +80,8 @@ const About = () => {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-6 mt-12 pt-8 border-t border-gray-700">
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-400 mb-2">50+</div>
+                <div className="text-3xl font-bold text-blue-400 mb-2">5+</div>
                 <div className="text-sm text-gray-400">Projects Completed</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold text-green-400 mb-2">5+</div>
-                <div className="text-sm text-gray-400">Years Experience</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold text-purple-400 mb-2">30+</div>
-                <div className="text-sm text-gray-400">Happy Clients</div>
               </div>
             </div>
           </div>
