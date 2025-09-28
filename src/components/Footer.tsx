@@ -49,7 +49,6 @@ const Footer = () => {
             <p className="text-gray-400 leading-relaxed mb-6 max-w-md">
             “Passionate web developer with a strong drive to create user-friendly, responsive, and innovative                websites. Dedicated to continuous learning and staying updated with modern web technologies.”
               </p>
-            </p>
             <div className="flex space-x-4">
               {socialLinks.map((link) => (
                 <a
