@@ -30,6 +30,7 @@ const Projects = () => {
       liveUrl:'https://example.com',
       githubUrl: 'https://github.com/padmajaLingupanda',
       featured: true,
+    }
   ];
 
   return (
