@@ -18,10 +18,10 @@ const Skills = () => {
       icon: <Database className="w-8 h-8" />,
       color: 'green',
       skills: [
-        { name: 'PHP', level: 88 },
-        { name: 'Python', level: 85 },
-        { name: 'SQL', level: 92 },
-        { name: 'Java', level: 89 },
+        { name: 'Python', level: 88 },
+        { name: 'SQL', level: 85 },
+        { name: 'PHP', level: 82 },
+        { name: 'Java', level: 86 },
         
       ],
     },
