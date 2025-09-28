@@ -29,7 +29,7 @@ const About = () => {
           {/* Content */}
           <div>
             <h3 className="text-2xl md:text-3xl font-bold mb-6 text-white">
-              Hi there! I'm Lingupanda Padmaja
+              Hi there! I'm Padmaja
             </h3>
             <div className="space-y-4 text-lg text-gray-300 leading-relaxed">
               <p>
